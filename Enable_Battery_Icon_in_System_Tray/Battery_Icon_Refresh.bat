@@ -1,0 +1,1 @@
+start cmd /C powershell .\System_Tray_Battery_Icon.ps1
